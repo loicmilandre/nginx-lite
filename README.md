@@ -1,4 +1,4 @@
-## nginx-lite created from 9-slim official image ##
+## nginx-lite created from Oracle Linux (9-slim) official image ##
 
 1. Podman must be installed and the current user must be authorized for using Podman service.
 2. Execute build.sh to build the images from internet sources and store new nginx-lite image in local repository.
